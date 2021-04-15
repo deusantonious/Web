@@ -3,6 +3,10 @@
     padding: 0;
 }
 
+.nav-link:hover {
+    cursor: pointer;
+}
+
 .main-body {
     padding: 15px;
 }
